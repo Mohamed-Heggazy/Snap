@@ -1,0 +1,35 @@
+.font {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.hov {
+  background-color: black;
+  color: white;
+}
+.hov:hover {
+  background-color: rgba(0, 0, 0, 0.792);
+  color: white;
+}
+img {
+  width: 100%;
+}
+main h1 {
+  font-size: 81px;
+  color: black;
+}
+main p {
+  color: #999999;
+}
+.one {
+  color: #726cee;
+}
+.two {
+  color: #e0c92c;
+}
+.three {
+  color: #4bb1da;
+}
+.four {
+  color: #8e4cb6;
+}
